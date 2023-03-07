@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">814068516896-g5a0rh9vnm928pqspnpibms8n3a9pqdu.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">814068516896</string>
+    <string name="google_api_key" translatable="false">AIzaSyDXnK67bhgcNIbGbvlYd6M2pB0ONFcltjI</string>
+    <string name="google_app_id" translatable="false">1:814068516896:android:5c105f4a26beb1bed65445</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDXnK67bhgcNIbGbvlYd6M2pB0ONFcltjI</string>
+    <string name="google_storage_bucket" translatable="false">human-activity-recognization.appspot.com</string>
+    <string name="project_id" translatable="false">human-activity-recognization</string>
+</resources>

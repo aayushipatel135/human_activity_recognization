@@ -1,0 +1,17 @@
+com/example/har/BuildConfig.java
+ com.example.har.BuildConfig
+com/example/har/MainActivity.java
+ com.example.har.MainActivity
+ com.example.har.MainActivity$1
+ com.example.har.MainActivity$2
+ com.example.har.MainActivity$3
+ com.example.har.MainActivity$4
+com/example/har/ActivityClassifier.java
+ com.example.har.ActivityClassifier
+com/example/har/MainActivity2.java
+ com.example.har.MainActivity2
+ com.example.har.MainActivity2$1
+com/example/har/SignInActivity.java
+ com.example.har.SignInActivity
+ com.example.har.SignInActivity$1
+ com.example.har.SignInActivity$2
